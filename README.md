@@ -9,7 +9,7 @@ Creational patterns
 - Builder Pattern
 - Factory Method
 - Prototype Pattern
-- Singleton Pattern ✔
+- [Singleton Pattern](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/singleton) ✔
 
 Structural patterns
 - Adapter Pattern

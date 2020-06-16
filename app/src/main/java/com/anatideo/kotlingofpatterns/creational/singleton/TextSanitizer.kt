@@ -1,7 +1,7 @@
 package com.anatideo.kotlingofpatterns.creational.singleton
 
 /**
- * It class is an implementation of a Singleton which restricts object creation for a class
+ * This class is an implementation of a Singleton which restricts object creation for a class
  * to only one instance.
  */
 object TextSanitizer {

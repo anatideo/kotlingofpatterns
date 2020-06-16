@@ -1,7 +1,8 @@
 package com.anatideo.kotlingofpatterns.creational.singleton
 
 /**
- * Restricts object creation for a class to only one instance.
+ * It class is an implementation of a Singleton which restricts object creation for a class
+ * to only one instance.
  */
 object TextSanitizer {
     private val FORBIDDEN_CHARS = listOf("%", "$", "3")

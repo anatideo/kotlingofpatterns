@@ -5,16 +5,17 @@ class SingletonUsage(
 ) {
     fun getMessage(): String {
         /**
-         * It not works because it's not possible to create a new singleton instance
-         * Singleton in Kotlin implementation create your instance on a high-level abstraction
+         * It doesn't works because isn't possible to create a new singleton instance
+         * Singleton implementation in Kotlin create your instance on a high-level abstraction
          * and always returns same instance created in first time
          */
 //        val singletonInstance = TextSanitizer()
 
         /**
-         * It works but you initialize another value with the same point of memory
+         * It works but doing that you initialize another value with same point of memory, what
+         * could be useless
          */
-        val singletonInstance = TextSanitizer
+//        val singletonInstance = TextSanitizer
 
         /**
          * Usages of singleton instance

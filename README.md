@@ -6,31 +6,31 @@ Roadmap Implementation:
 
 Creational patterns
 - Abstract Factory
-- Builder Pattern
+- Builder 
 - Factory Method
-- Prototype Pattern
-- [Singleton Pattern](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/singleton) ✔
+- Prototype 
+- [Singleton](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/singleton) ✔
 
 Structural patterns
-- Adapter Pattern
-- Bridge Pattern
-- Composite Pattern
-- Decorator Pattern
-- Facade Pattern
-- Flyweight Pattern
-- Proxy Pattern
+- Adapter 
+- Bridge 
+- Composite 
+- Decorator 
+- Facade 
+- Flyweight 
+- Proxy 
 
 Behavioral patterns
 - Chain of Responsibility
-- Command Pattern
-- Interpreter Pattern
-- Iterator Pattern
-- Mediator Pattern
-- Memento Pattern
-- Observer Pattern
-- State Pattern
-- Strategy Pattern
-- Template Pattern
-- Visitor Pattern
+- Command 
+- Interpreter 
+- Iterator 
+- Mediator 
+- Memento 
+- Observer 
+- State 
+- Strategy 
+- Template 
+- Visitor 
 - Externalize Stack
 - Hierarchical Visitor

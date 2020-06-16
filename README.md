@@ -1,8 +1,8 @@
 # kotlingofpatterns
 
-This project exist to show a implementation in Kotlin of each GoF Pattern. It also shows an explanation about these pattern and when to use it. I also would like to show famous usages of some of them. 
+This project exist to show an implementation in Kotlin of each GoF Pattern. It also include an explanation about these patterns and when to use it. I also would like to show famous usages of some of them. 
 
-Implementation roadmap:
+Roadmap Implementation:
 
 Creational patterns
 - Abstract Factory

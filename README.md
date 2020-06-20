@@ -7,7 +7,7 @@ Roadmap Implementation:
 Creational patterns
 - Abstract Factory
 - [Builder](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/builder) ✔ 
-- Factory Method
+- [Factory Method](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/factory) ✔
 - Prototype 
 - [Singleton](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/singleton) ✔
 

@@ -1,3 +1,0 @@
-package com.anatideo.kotlingofpatterns.creational.factory
-
-interface FileParser

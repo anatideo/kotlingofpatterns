@@ -1,5 +1,8 @@
 package com.anatideo.kotlingofpatterns.creational.factory
 
+import com.anatideo.kotlingofpatterns.creational.factory.fileparser.base.FileParser
+import com.anatideo.kotlingofpatterns.creational.factory.fileparser.JsonFileParser
+import com.anatideo.kotlingofpatterns.creational.factory.fileparser.XmlFileParser
 import java.lang.IllegalArgumentException
 
 /**

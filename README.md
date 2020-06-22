@@ -1,6 +1,6 @@
 # kotlingofpatterns
 
-This project exist to show an implementation in Kotlin of each GoF Pattern. It also include an explanation about these patterns and when to use it. I also would like to show famous usages of some of them. 
+This project exist to show an implementation in Kotlin of each GoF Pattern. It also includes an explanation about these patterns and when to use it. I also would like to show famous usages of some of them. 
 
 For the sake of convinience I'll use Android Studio as my IDE for now.
 

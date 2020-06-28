@@ -10,7 +10,7 @@ Creational patterns
 - [Abstract Factory](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/abstractfactory) ✔ 
 - [Builder](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/builder) ✔ 
 - [Factory Method](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/factory) ✔
-- Prototype 
+- [Prototype](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/prototype) ✔ 
 - [Singleton](https://github.com/anatideo/kotlingofpatterns/tree/master/app/src/main/java/com/anatideo/kotlingofpatterns/creational/singleton) ✔
 
 Structural patterns
